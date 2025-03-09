@@ -1,0 +1,3 @@
+[submodule "faiss-store"]
+	path = faiss-store
+	url = https://github.com/bmaoyama/RAG-spaceplane-A
